@@ -1,0 +1,1 @@
+var about={init:function(){}};
